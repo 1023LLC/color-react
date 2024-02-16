@@ -1,8 +1,33 @@
-# React + Vite
+# React Random Color Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that generates random colors. It allows users to create random colors in either hexadecimal (HEX) or RGB format.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Generates random colors in HEX format.
+- Generates random colors in RGB format.
+- Allows users to switch between HEX and RGB color generation.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Install dependencies using `npm install`.
+4. Start the development server using `npm start`.
+5. Open [http://localhost:5173](http://localhost:5173) to view the application in your browser.
+
+## Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- CSS
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or add new features.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
